@@ -5,7 +5,7 @@ import email
 from email.header import decode_header
 
 # ── CONFIG ────────────────────────────────────────────────
-EMAIL_ADDRESS    = "nurjamila1@gmail.com"          # ← change
+EMAIL_ADDRESS    = "abc@gmail.com"          # ← change
 APP_PASSWORD     = "xjkhqsdaksykoami"           # ← your 16-char app password (no spaces!)
 CHECK_INTERVAL   = 60                              # seconds between checks
 VAULT_BASE       = os.path.dirname(os.path.abspath(__file__))
