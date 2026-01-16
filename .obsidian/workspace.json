@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "322908ddbc74b63f",
+    "type": "split",
+    "children": [
+      {
+        "id": "73172ecc3a744fa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36c626c9d4fdf2a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "508c8aff8d1c4733",
+    "type": "split",
+    "children": [
+      {
+        "id": "8014307368c0ad3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12b5b2938bbcf431",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5488c0d23aa15163",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2ce7abfab0d884bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d237e20c4c2724cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5463a0ae197a45a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79823f043af39dd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "inbox/helllo.txt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for helllo.txt"
+            }
+          },
+          {
+            "id": "f542cdbcd325e8ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "inbox/helllo.txt.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from helllo.txt"
+            }
+          },
+          {
+            "id": "13ff468119d5e231",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e9744aafa22c0b9f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "89c945cbb93e866e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "inbox/helllo.txt.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of helllo.txt"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "36c626c9d4fdf2a5",
+  "lastOpenFiles": [
+    "Done/Testing.md",
+    "Dashboard.md",
+    "Done/hello.txt.md",
+    "inbox/hello.txt.md",
+    "Needs_Action/Testing_3.md",
+    "Needs_Action/Testing_2.md",
+    "Needs_Action/Testing.md",
+    "Company_Handbook.md",
+    "Needs_Action/hello.txt.md",
+    "Done/You’ve_been_unsubscribed,_you_can_rejoin_anytime.md",
+    "Done/testing.md",
+    "Done/hello.txt.md.md",
+    "Done/bye.txt.md",
+    "inbox/bye.txt.md",
+    "Needs_Action/You’ve_been_unsubscribed,_you_can_rejoin_anytime.md",
+    "Needs_Action/testing.md",
+    "Needs_Action/bye.txt.md",
+    "gmail_watcher.py.md",
+    "gmail_watcher.py",
+    "firebase-debug.log",
+    "Needs_Action/hello.txt.md.md",
+    "watcher.py",
+    "inbox/helllo.txt.md",
+    "watcher.py.md",
+    "Welcome.md",
+    "README.md",
+    "inbox/hello.txt",
+    "Untitled",
+    "uv.lock",
+    "pyproject.toml",
+    "main.py",
+    "Briefings",
+    "Accounting"
+  ]
+}

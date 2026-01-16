@@ -1,0 +1,1 @@
+Rule 1: Always check the Inbox first.
